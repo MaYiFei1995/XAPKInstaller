@@ -11,12 +11,12 @@
 - Long click an entry to display the details of the file.
 - Devices with an SDK less than 24 (Android N) will show that the minSDKVersion is -1, with no effect.
 
-![](.\imgs\S81206-015936.jpg)
+![](/imgs/S81206-015936.jpg)
 
-![](.\imgs\S81206-015940.jpg)
+![](/imgs/S81206-015940.jpg)
 
-![](.\imgs\S81206-024445.jpg)
+![](/imgs/S81206-024445.jpg)
 
-![](.\imgs\S81206-024455.jpg)
+![](/imgs/S81206-024455.jpg)
 
 ### 部分源码参考自[KhunHtetzNaing/XAPKInstaller](https://github.com/KhunHtetzNaing/XAPKInstaller)
