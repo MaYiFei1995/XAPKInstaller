@@ -1,0 +1,17 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.myanmar.myanmarkeyboards.MainActivity">
+
+    <item
+        app:showAsAction="ifRoom"
+        android:id="@+id/browse"
+        android:icon="@drawable/ic_file_cabinet"
+        android:title="@string/menu_title_choose_file"/>
+
+    <item
+        app:showAsAction="ifRoom"
+        android:id="@+id/refresh"
+        android:icon="@drawable/ic_refresh_white_24dp"
+        android:title="@string/menu_title_refresh"/>
+</menu>
